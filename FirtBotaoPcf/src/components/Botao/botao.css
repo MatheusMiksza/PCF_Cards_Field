@@ -1,0 +1,17 @@
+.white{
+    color:black ;
+    background-color: whitesmoke;
+}
+.blue{
+    color: white;
+    background-color: rgb(64, 64, 185);
+}
+.btn{
+    display: flex;
+    border-radius: 8px;
+    border: solid .01px gray;
+    padding: .5em 1em;
+    align-items: center;
+    justify-content: center;
+    margin: 0px 2px;
+}

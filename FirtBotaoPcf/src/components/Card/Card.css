@@ -1,0 +1,35 @@
+*{
+    font-size: 13px;
+}
+.card{
+    display: flex;
+    background-color: whitesmoke;
+    border-radius: 8px;
+    margin: 8px;
+    flex-direction: column;
+    align-content: flex-start;
+    align-items: flex-start;
+    width: 100%;
+    padding: 8px;
+    box-shadow: 0px 20px 20px rgba(0, 0, 0, 0.1);
+}
+.titulo{
+    background-color: orangered;
+    border-radius: 4px;    
+    color: white;
+    padding: 3px;
+    font-weight:400 ;
+    
+}
+.nome{   
+    margin: 2px 0px;
+    font-weight:600 ;
+}
+.texto{
+    font-weight: bold;
+    font-size: 11px;
+
+}
+.rodape{
+    font-weight:200 ;
+    }

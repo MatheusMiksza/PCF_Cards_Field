@@ -1,0 +1,32 @@
+*{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+.root{
+    display: flex;
+    flex-direction: row;
+    height: 384px;
+}
+.main{
+    display: flex;
+    width: inherit;
+    flex-direction: column;
+    
+}
+.nav{
+    background-color: #e7e7e7;
+    border-radius: 8px 8px 0px 0px 0px ;
+}
+.coluna {
+    display: flex;
+    background-color: #e7e7e7;    
+    height: 100%;
+    width: 100%;
+    border-radius: 0px 0px 0px 8px 8px ;
+
+    align-items: center;
+    flex-direction: column;
+    padding: 0px 16px;
+    overflow-x: hidden;
+    
+}
